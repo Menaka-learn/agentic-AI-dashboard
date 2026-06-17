@@ -1,6 +1,6 @@
 export const agents = [
   {
-    id: "DU03-M01",
+    id: "DU-M01",
     name: "Developer Agent",
     status: "Active",
     users: 412,
@@ -22,7 +22,7 @@ export const agents = [
   },
 
   {
-    id: "DU03-M02",
+    id: "DU-M02",
     name: "Testing Agent",
     status: "Active",
     users: 289,
@@ -43,7 +43,7 @@ export const agents = [
   },
 
   {
-    id: "DU03-M03",
+    id: "DU-M03",
     name: "Performance Agent",
     status: "Active",
     users: 580,
@@ -64,7 +64,7 @@ export const agents = [
   },
 
   {
-    id: "DU03-M04",
+    id: "DU-M04",
     name: "PR Agent",
     status: "Under Development",
     users: 0,
