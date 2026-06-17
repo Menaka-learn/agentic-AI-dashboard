@@ -34,15 +34,15 @@ function Dashboard() {
 
   const pieData = [
     {
-      name: "McLaren",
+      name: "Team1",
       value: agents
-        .filter(a => a.team === "McLaren")
+        .filter(a => a.team === "Team1")
         .reduce((sum, a) => sum + a.users, 0)
     },
     {
-      name: "Challengers",
+      name: "Team2",
       value: agents
-        .filter(a => a.team === "Challengers")
+        .filter(a => a.team === "Team2")
         .reduce((sum, a) => sum + a.users, 0)
     }
   ];

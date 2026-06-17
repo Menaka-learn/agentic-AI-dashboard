@@ -5,13 +5,13 @@ export const agents = [
     status: "Active",
     users: 412,
     version: "v3.2",
-    team: "McLaren",
+    team: "Team1",
 
     // 🔥 NEW DETAILS
     problem: "Helps developers write, debug, and optimize code faster.",
     howItWorks:
       "Uses AI models trained on large codebases to suggest fixes, generate code, and detect bugs.",
-    developedBy: "McLaren AI Engineering Team",
+    developedBy: "Team1 AI Engineering Team",
     usage: "Used in internal dev tools and CI/CD pipelines",
     impact: "Reduces development time by 35%",
     metrics: {
@@ -27,7 +27,7 @@ export const agents = [
     status: "Active",
     users: 289,
     version: "v1.9",
-    team: "Challengers",
+    team: "Team2",
 
     problem: "Automates software testing and bug detection.",
     howItWorks:
@@ -48,7 +48,7 @@ export const agents = [
     status: "Active",
     users: 580,
     version: "v2.1",
-    team: "McLaren",
+    team: "Team1",
 
     problem: "Monitors system performance and detects bottlenecks.",
     howItWorks:
@@ -69,7 +69,7 @@ export const agents = [
     status: "Under Development",
     users: 0,
     version: "v0.4",
-    team: "Challengers",
+    team: "Team2",
 
     problem: "Automatically reviews pull requests and suggests improvements.",
     howItWorks:

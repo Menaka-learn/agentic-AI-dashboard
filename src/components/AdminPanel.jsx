@@ -88,8 +88,8 @@ function AdminPanel() {
           </label>
 
           <select>
-            <option>McLaren</option>
-            <option>Challengers</option>
+            <option>Team1</option>
+            <option>Team2</option>
           </select>
 
           <label>
