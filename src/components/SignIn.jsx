@@ -37,7 +37,7 @@ function SignIn() {
             marginBottom: "20px"
           }}
         >
-          🚀 DU03 AI Portal
+          🚀 AI Portal
         </h1>
 
         <h2

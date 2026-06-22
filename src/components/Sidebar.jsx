@@ -16,7 +16,7 @@ function Sidebar() {
           marginBottom: "30px"
         }}
       >
-        <h2>🏎️ DU03</h2>
+        <h2>🏎️ Dashboard</h2>
         <p
           style={{
             color: "#94a3b8",

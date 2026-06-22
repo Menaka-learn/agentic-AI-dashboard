@@ -66,7 +66,7 @@ function Dashboard() {
       {/* Header */}
 
       <div className="main-header">
-        <h1>🚀 DU03 AI Portal</h1>
+        <h1>🚀 AI Portal</h1>
         <p>Centralized AI Agent Dashboard</p>
       </div>
 
